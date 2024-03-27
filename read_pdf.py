@@ -18,7 +18,7 @@ class Course: #Course class
         self.rec = rec
         self.prereq = prereq
 
-    def print(self): #prints attributes
+    def __str__(self): #converts to string
         credits = ""
         for i in self.creds[:-1]:
             credits += i + " + "
@@ -27,7 +27,7 @@ class Course: #Course class
         for i in self.prereq[:-1]:
             prerequisites += i + " or\n"
         prerequisites += self.prereq[-1]
-        print(self.name + "\n\n" + str(self.length) + " semesters\n\nFulfills: " + credits + "\n\nCourse Description: \n" + self.desc + "\n\nCourse Recommendation:\n" + self.rec + "\n\nPrerequisites:\n" + prerequisites+"\n\n\n\n\n")
+        return self.name + "\n\n" + str(self.length) + " semesters\n\nFulfills: " + credits + "\n\nCourse Description: \n" + self.desc + "\n\nCourse Recommendation:\n" + self.rec + "\n\nPrerequisites:\n" + prerequisites+"\n\n\n\n\n"
 
 courses = []
 
@@ -62,16 +62,19 @@ for i in range(32, 200): #checks all grad requirements
                 length = -1
             creds = strip_list("".join(txt[3].split("for")[0]).split(" or "))
             prereq = strip_list("".join("".join(txt[4].split(";"))).split(" or "))
-            #prereq = strip_list(split_nested(txt[4], [";"," or ", "\n"]))
             desc = txt[5]
             rec = txt[6].split("Board")[0]
             courses.append(Course(name, grades, length, creds, desc, rec, prereq))
         except IndexError as e:
             print("Index Error on page "+ str(i))
 
-file_path = 'course_data.pickle'
-with open (file_path, 'wb') as file:
+with open ('course_data.pickle', 'wb') as file:
     pickle.dump(courses, file)
+
+f = open ('course_data.txt', 'w')
+for course in courses:
+    f.write(str(course))
+f.close()
 
 
 
