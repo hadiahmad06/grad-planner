@@ -1,3 +1,4 @@
+Course Name:
 Advanced Placement (AP)  
 Studio Art
 
@@ -38,6 +39,7 @@ instructor approval
 
 
 
+Course Name:
 Ceramics 1: Hand Building
 
 
@@ -76,6 +78,7 @@ None
 
 
 
+Course Name:
 Experience Clay  
 Maureen Mackey - Davis Pub. – 2003 – Print  
 ISBN: 9780871925985
@@ -123,6 +126,7 @@ NoneFAA-130-00   ► In-Person
 
 
 
+Course Name:
 drawing from life, and artistic interpretations.  
 Students will demonstrate learning through daily 
 work, critiques and discussions, various exercises, 
@@ -161,6 +165,7 @@ Graduation
 
 
 
+Course Name:
 Graphic Art & Design 1
 
 
@@ -199,6 +204,7 @@ None
 
 
 
+Course Name:
 Painting
 
 
@@ -234,6 +240,7 @@ None
 
 
 
+Course Name:
 Photography 1  
 (Digital Only)
 
@@ -293,6 +300,7 @@ None
 
 
 
+Course Name:
 Photography 2  
 (Digital and Film)
 
@@ -336,6 +344,7 @@ Photography 1matting and printing options for their photos.
 
 
 
+Course Name:
 Accounting 1
 
 
@@ -374,6 +383,7 @@ None
 
 
 
+Course Name:
 Business Communication
 
 
@@ -414,6 +424,7 @@ None
 
 
 
+Course Name:
 Digital Media: Game and 
 Web Development
 
@@ -452,6 +463,7 @@ None
 
 
 
+Course Name:
 Marketing 1
 
 
@@ -490,6 +502,7 @@ None
 
 
 
+Course Name:
 Personal Financial 
 Management
 
@@ -529,6 +542,7 @@ None
 
 
 
+Course Name:
 Retail Merchandising: 
 School Store Operations
 
@@ -564,6 +578,7 @@ Instructor Approval
 
 
 
+Course Name:
 Board Approved Primary Resource: 
 None
 Additional Registration Information:  
@@ -608,6 +623,7 @@ None
 
 
 
+Course Name:
 English 9
 
 
@@ -644,6 +660,7 @@ None
 
 
 
+Course Name:
 English 10
 
 
@@ -700,6 +717,7 @@ None
 
 
 
+Course Name:
 utilizing grammar and vocabulary skills.
 Students will demonstrate learning in various 
 ways, including writing assignments, speeches 
@@ -737,6 +755,7 @@ Graduation
 
 
 
+Course Name:
 Advanced Placement (AP) 
 English Language and 
 Composition
@@ -780,6 +799,7 @@ None
 
 
 
+Course Name:
 Public Speaking
 
 
@@ -815,6 +835,7 @@ None
 
 
 
+Course Name:
 English 12
 
 
@@ -851,6 +872,7 @@ None
 
 
 
+Course Name:
 Broadcast Media
 
 
@@ -885,6 +907,7 @@ Requirement for Graduation
 
 
 
+Course Name:
 Creative Writing
 
 
@@ -926,6 +949,7 @@ None
 
 
 
+Course Name:
 Journalism
 
 
@@ -964,6 +988,7 @@ None
 
 
 
+Course Name:
 Yearbook Journalism
 
 
@@ -1009,6 +1034,7 @@ Instructor Approval
 
 
 
+Course Name:
 Child Development 1
 
 
@@ -1045,6 +1071,7 @@ None
 
 
 
+Course Name:
 Fashion Design
 
 
@@ -1081,6 +1108,7 @@ None
 
 
 
+Course Name:
 Baking & Pastries
 
 
@@ -1115,6 +1143,7 @@ None
 
 
 
+Course Name:
 Independent Living
 
 
@@ -1150,6 +1179,7 @@ None
 
 
 
+Course Name:
 Intermediate Algebra
 
 
@@ -1190,6 +1220,7 @@ Algebra 1 (8th Grade)
 
 
 
+Course Name:
 Honors Geometry
 
 
@@ -1233,6 +1264,7 @@ Recommendation
 
 
 
+Course Name:
 Honors Algebra 2
 
 
@@ -1280,6 +1312,7 @@ Instructor Recommendation
 
 
 
+Course Name:
 Board Approved Primary Resource:
 Algebra and Trigonometry for College 
 Readiness  
@@ -1329,6 +1362,7 @@ Algebra 2
 
 
 
+Course Name:
 College Now Pre-Calculus
 
 
@@ -1380,6 +1414,7 @@ Algebra 2 & 3.0 Cumulative GPA
 
 
 
+Course Name:
 Advanced Placement (AP)
 Calculus AB
 
@@ -1428,6 +1463,7 @@ Pre-Calculus
 
 
 
+Course Name:
 Advanced Placement (AP) 
 Calculus BC & Advanced 
 Topics
@@ -1480,6 +1516,7 @@ Advanced Placement Calculus AB
 
 
 
+Course Name:
 Computer Programming 2
 
 
@@ -1515,6 +1552,7 @@ Computer Programming 1
 
 
 
+Course Name:
 Concert Band
 
 
@@ -1548,6 +1586,7 @@ Previous Instrumental Experience
 
 
 
+Course Name:
 Symphonic Band
 
 
@@ -1581,6 +1620,7 @@ Previous Instrumental Experience
 
 
 
+Course Name:
 VOCAL
 Cantabile / Bel Canto
 
@@ -1618,6 +1658,7 @@ Audition
 
 
 
+Course Name:
 VOCAL
 Chorale / Concert Chorale
 
@@ -1654,6 +1695,7 @@ Audition
 
 
 
+Course Name:
 VOCAL
 Now & Then Singers / 
 Encore
@@ -1691,6 +1733,7 @@ Audition
 
 
 
+Course Name:
 FINE ART ELECTIVES
 Advanced Placement (AP)  
 Music Theory
@@ -1735,6 +1778,7 @@ None
 
 
 
+Course Name:
 FINE ART ELECTIVES
 Guitar
 
@@ -1768,6 +1812,7 @@ None
 
 
 
+Course Name:
 FINE ART ELECTIVES
 Music Production
 
@@ -1805,6 +1850,7 @@ None
 
 
 
+Course Name:
 Music Lab
 
 
@@ -1843,6 +1889,7 @@ None
 
 
 
+Course Name:
 Competitive Team Sports
 
 
@@ -1877,6 +1924,7 @@ Physical Education 9 or
 
 
 
+Course Name:
 Health Issues
 
 
@@ -1928,6 +1976,7 @@ PEH-100-00L    ►  Online( LOA)Physical Education 10-12
 
 
 
+Course Name:
 Dance
 
 
@@ -1961,6 +2010,7 @@ None
 
 
 
+Course Name:
 Intermediate Weight 
 Training
 
@@ -2002,6 +2052,7 @@ Instructor/Strength Coach Approval
 
 
 
+Course Name:
 Mega Weight Training
 
 
@@ -2043,6 +2094,7 @@ Instructor/Strength Coach Approval
 
 
 
+Course Name:
 Physical Education Online
 
 
@@ -2094,6 +2146,7 @@ None
 
 
 
+Course Name:
 Advanced Racquet Sports
 
 
@@ -2128,6 +2181,7 @@ None
 
 
 
+Course Name:
 Stress Management /  
 First Aid
 
@@ -2162,6 +2216,7 @@ None
 
 
 
+Course Name:
 Earth and Space Science
 
 
@@ -2195,6 +2250,7 @@ None
 
 
 
+Course Name:
 Biology
 
 
@@ -2237,6 +2293,7 @@ None
 
 
 
+Course Name:
 
 
 -1 semesters
@@ -2258,6 +2315,7 @@ Year-long
 
 
 
+Course Name:
 Honors Medical 
 Interventions
 
@@ -2333,6 +2391,7 @@ Honors Human Body Systems
 
 
 
+Course Name:
 problems, addressing topics such as clinical 
 medicine, physiology, biomedical engineering, 
 and public health. They have the opportunity 
@@ -2414,6 +2473,7 @@ Biology Requirement for Graduation
 
 
 
+Course Name:
 Board Approved Primary Resource:
 Biology for the AP Course
 James Morris; Domenic Castignetti; John Lepri; 
@@ -2464,6 +2524,7 @@ Geometry
 
 
 
+Course Name:
 Board Approved Primary Resource:
 Holt Chemistry  
 R. Thomas Myers - Keith B Oldham - Salvatore 
@@ -2522,6 +2583,7 @@ the course
 
 
 
+Course Name:
 Advanced Placement (AP) 
 Chemistry (LNHS)
 
@@ -2565,6 +2627,7 @@ higher
 
 
 
+Course Name:
 Advanced Placement (AP) 
 Physics 1
 
@@ -2603,6 +2666,7 @@ Algebra 2
 
 
 
+Course Name:
 Internal Anatomy & 
 Physiology 
 
@@ -2654,6 +2718,7 @@ concurrently enrolled in biology
 
 
 
+Course Name:
 
 
 -1 semesters
@@ -2684,6 +2749,7 @@ Elective Requirement for Graduation
 
 
 
+Course Name:
 Forensics and the  
 Science of Crime
 
@@ -2722,6 +2788,7 @@ instructor approval
 
 
 
+Course Name:
 Medical & Health 
 Professions
 
@@ -2760,6 +2827,7 @@ Biology (Any level)
 
 
 
+Course Name:
 Civics 10-12
 
 
@@ -2800,6 +2868,7 @@ None
 
 
 
+Course Name:
 United States History
 
 
@@ -2840,6 +2909,7 @@ None
 
 
 
+Course Name:
 World History
 
 
@@ -2877,6 +2947,7 @@ None
 
 
 
+Course Name:
 Advanced Placement (AP)  
 European History
 
@@ -2928,6 +2999,7 @@ None
 
 
 
+Course Name:
 Advanced Placement (AP)  
 Human Geography
 
@@ -2968,6 +3040,7 @@ None
 
 
 
+Course Name:
 Advanced Placement (AP) 
 Macroeconomics
 
@@ -3013,6 +3086,7 @@ None
 
 
 
+Course Name:
 Advanced Placement (AP)
 Microeconomics
 
@@ -3064,6 +3138,7 @@ as written tests and quizzes.
 
 
 
+Course Name:
 Advanced Placement (AP) 
 United States Government 
 and Politics
@@ -3110,6 +3185,7 @@ None
 
 
 
+Course Name:
 Criminal Justice
 
 
@@ -3142,6 +3218,7 @@ None
 
 
 
+Course Name:
 Music of Social Justice
 
 
@@ -3196,6 +3273,7 @@ SSZ-120-00H   ►  HybridHistory of Sports
 
 
 
+Course Name:
 Engineering and Technology Innovation Pathway
 Engineering & Innovation 1
 
@@ -3237,6 +3315,7 @@ None
 
 
 
+Course Name:
 Engineering and Technology Innovation Pathway
 Engineering & Innovation 3
 
@@ -3278,6 +3357,7 @@ Engineering & Innovation 2
 
 
 
+Course Name:
 Engineering and Technology Innovation Pathway
 Mechanical Drawing: Board & CAD 
 Techniques  
@@ -3328,6 +3408,7 @@ Engineering 1
 
 
 
+Course Name:
 Engineering and Technology Innovation Pathway
 while working individually and in teams to 
 create structures and programmable remotely 
@@ -3366,6 +3447,7 @@ Elective Requirement for Graduation
 
 
 
+Course Name:
 Manufacturing and Welding Pathway
 Manufacturing, Metals & 
 Welding 1
@@ -3407,6 +3489,7 @@ None
 
 
 
+Course Name:
 Manufacturing and Welding Pathway
 Manufacturing, Metals & 
 Welding 3
@@ -3446,6 +3529,7 @@ Welding 2
 
 
 
+Course Name:
 Manufacturing and Welding Pathway
 Auto Technology 1
 
@@ -3497,6 +3581,7 @@ None
 
 
 
+Course Name:
 Architecture & Computer-Aided Design Pathway
 Architecture 1
 
@@ -3534,6 +3619,7 @@ None
 
 
 
+Course Name:
 Architecture & Computer-Aided Design Pathway
 Architecture: Residential Drafting and Design  
 Clois E Kicklighter - Joan C Kicklighter - 
@@ -3587,6 +3673,7 @@ Architecture 2
 
 
 
+Course Name:
 Architecture & Computer-Aided Design Pathway
 The primary units of study include CAD 
 commands and functions, applied geometry, 
@@ -3638,6 +3725,7 @@ Elective Requirement for Graduation
 
 
 
+Course Name:
 Architecture & Computer-Aided Design Pathway
 Mechanical Drawing: Board & CAD 
 Techniques  
@@ -3687,6 +3775,7 @@ None
 
 
 
+Course Name:
 Advanced Design & 
 Manufacturing (Capstone 2)
 
@@ -3734,6 +3823,7 @@ Teacher Approval
 
 
 
+Course Name:
 Engineering Your Future 2
 
 
@@ -3785,6 +3875,7 @@ Engineering Your Future 1
 
 
 
+Course Name:
 Engine Technology 2
 
 
@@ -3826,6 +3917,7 @@ older
 
 
 
+Course Name:
 STEM Capstone
 
 
@@ -3874,6 +3966,7 @@ Course
 
 
 
+Course Name:
 Architecture 1
 
 
@@ -3910,6 +4003,7 @@ for Graduation
 
 
 
+Course Name:
 Architecture 2
 
 
@@ -3947,6 +4041,7 @@ Requirement for Graduation
 
 
 
+Course Name:
 Building Construction/
 Applied Architecture
 
@@ -3987,6 +4082,7 @@ Instructor APproval
 
 
 
+Course Name:
 Electricity 2
 
 
@@ -4027,6 +4123,7 @@ Electricty & Electronics 1
 
 
 
+Course Name:
 Woods 2
 
 
@@ -4067,6 +4164,7 @@ Woods 1
 
 
 
+Course Name:
 Woods 4
 
 
@@ -4105,6 +4203,7 @@ Woods 2
 
 
 
+Course Name:
 American Sign Language 1
 
 
@@ -4149,6 +4248,7 @@ None
 
 
 
+Course Name:
 American Sign Language 3
 
 
@@ -4195,6 +4295,7 @@ American Sign Language 1 and 2
 
 
 
+Course Name:
 Spanish 1
 
 
@@ -4236,6 +4337,7 @@ None
 
 
 
+Course Name:
 Honors Spanish 2
 
 
@@ -4280,6 +4382,7 @@ Spanish 1
 
 
 
+Course Name:
 Honors Spanish 3
 
 
@@ -4324,6 +4427,7 @@ Spanish 2
 
 
 
+Course Name:
 Honors Spanish 5
 
 
@@ -4367,6 +4471,7 @@ Spanish 4
 
 
 
+Course Name:
 
 LAKEVILLE ONLINE ACADEMY Art in World Cultures
 
@@ -4405,6 +4510,7 @@ None
 
 
 
+Course Name:
 Board Approved Primary Resource: 
 There is no additional text for this course.
 Additional Registration Information: 
@@ -4456,6 +4562,7 @@ None
 
 
 
+Course Name:
 
 
 1 semesters
@@ -4499,6 +4606,7 @@ None
 
 
 
+Course Name:
 
 
 1 semesters
@@ -4532,6 +4640,7 @@ None
 
 
 
+Course Name:
 
 
 1 semesters
@@ -4571,6 +4680,7 @@ None
 
 
 
+Course Name:
 
 
 1 semesters
@@ -4613,6 +4723,7 @@ None
 
 
 
+Course Name:
 Sports & Entertainment 
 Marketing
 
@@ -4654,6 +4765,7 @@ None
 
 
 
+Course Name:
 Business Communication
 
 
@@ -4694,6 +4806,7 @@ None
 
 
 
+Course Name:
 Capstone: Global 
 Leadership Online
 
@@ -4746,6 +4859,7 @@ Business courses
 
 
 
+Course Name:
 Word Processing/
 Keyboarding
 
@@ -4782,6 +4896,7 @@ None
 
 
 
+Course Name:
 
 
 
@@ -4828,6 +4943,7 @@ None
 
 
 
+Course Name:
 
 
 1 semesters
@@ -4866,6 +4982,7 @@ None
 
 
 
+Course Name:
 
 
 1 semesters
@@ -4904,6 +5021,7 @@ None
 
 
 
+Course Name:
 
 
 1 semesters
@@ -4938,6 +5056,7 @@ None
 
 
 
+Course Name:
 
 
 2 semesters
@@ -4982,6 +5101,7 @@ Algebra 1 (8th Grade)
 
 
 
+Course Name:
 
 
 2 semesters
@@ -5026,6 +5146,7 @@ Geometry
 
 
 
+Course Name:
 
 
 2 semesters
@@ -5061,6 +5182,7 @@ Pre-Calculus and Trigonometry
 
 
 
+Course Name:
 
 
 1 semesters
@@ -5107,6 +5229,7 @@ None
 
 
 
+Course Name:
 
 
 2 semesters
@@ -5153,6 +5276,7 @@ None
 
 
 
+Course Name:
 
 
 2 semesters
@@ -5189,6 +5313,7 @@ Geometry
 
 
 
+Course Name:
 
 
 1 semesters
@@ -5225,6 +5350,7 @@ concurrently enrolled in biology
 
 
 
+Course Name:
 
 
 1 semesters
@@ -5262,6 +5388,7 @@ None
 
 
 
+Course Name:
 
 
 2 semesters
@@ -5301,6 +5428,7 @@ None
 
 
 
+Course Name:
 
 
 1 semesters
@@ -5340,6 +5468,7 @@ None
 
 
 
+Course Name:
 
 
 1 semesters
@@ -5374,6 +5503,7 @@ None
 
 
 
+Course Name:
 
 
 1 semesters
@@ -5413,6 +5543,7 @@ None
 
 
 
+Course Name:
 
 
 2 semesters
@@ -5456,6 +5587,7 @@ None
 
 
 
+Course Name:
 
 
 2 semesters

@@ -27,7 +27,7 @@ class Course: #Course class
         for i in self.prereq[:-1]:
             prerequisites += i + " or\n"
         prerequisites += self.prereq[-1]
-        return self.name + "\n\n" + str(self.length) + " semesters\n\nFulfills: " + credits + "\n\nCourse Description: \n" + self.desc + "\n\nCourse Recommendation:\n" + self.rec + "\n\nPrerequisites:\n" + prerequisites+"\n\n\n\n\n"
+        return "Course Name:\n" + self.name + "\n\n" + str(self.length) + " semesters\n\nFulfills: " + credits + "\n\nCourse Description: \n" + self.desc + "\n\nCourse Recommendation:\n" + self.rec + "\n\nPrerequisites:\n" + prerequisites+"\n\n\n\n\n"
 
 courses = []
 
