@@ -1,15 +1,13 @@
-Course Recommendation Chatbot
----
-Description:
+# Course Recommendation Chatbot
+### Description:
 Delivers prompts to the user and collects responses. Feeds the responses to OpenAI's ChatGPT 3.5 Turbo and responds to the user with recommended courses.
 
-Instructions:
---
+### Instructions:
 Open the ipynb file in the main branch
 Change the API key to one of your choice
 Run
 
-Built by:
+#### Built by:
 Hadi Ahmad\
 Jake Ebersole\
 Nick Lehmann\
