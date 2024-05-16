@@ -10,10 +10,10 @@ Change the API key to one of your choice
 Run
 
 Built by:
-Hadi Ahmad
-Jake Ebersole
-Nick Lehmann
-Joel Appiagyei
+Hadi Ahmad\
+Jake Ebersole\
+Nick Lehmann\
+Joel Appiagyei\
 Ty Webster
 
 -----------
